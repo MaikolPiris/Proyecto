@@ -1,0 +1,13 @@
+.mainSlider{
+	background: url("../images/mainSlideBackground.jpg");
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+
+.mainSection{
+	background: url("../images/mainSlideBackground2.jpg");
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
